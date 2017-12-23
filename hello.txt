@@ -1,3 +1,7 @@
 add log1
 
 add function
+
+hello git!
+
+add  function1
